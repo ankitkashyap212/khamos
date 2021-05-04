@@ -3,7 +3,6 @@ body {
     margin: 0px;
     padding: 0px;
     height: auto;
-    background-color: white;
 }
 
 .container {
@@ -218,7 +217,7 @@ font-size: 22px !important;
     left: 50%;
     font-size: 20px;
     padding: 0 5px;
-    background: #fff;
+    background: #f1f1f1;
     transform: translateX(-50%);
 }
 
